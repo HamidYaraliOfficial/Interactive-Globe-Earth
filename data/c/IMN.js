@@ -1,0 +1,1 @@
+window.CD&&CD("IMN",{"p":[["Isle of Man","جزیره من","","IM-X01~",575,[["{pIx[Ab@]O]c@Gc@JDJMl@z@"]]]],"r":[],"l":[],"t":[["Douglas","دوگلاس",35854,-4.48,54.15,1,"Europe/London"]],"k":[["Snaefell","اسنائیفل",621,-4.46,54.26]]});

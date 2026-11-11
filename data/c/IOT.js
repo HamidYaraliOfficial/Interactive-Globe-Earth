@@ -1,0 +1,1 @@
+window.CD&&CD("IOT",{"p":[["British Indian Ocean Territory","قلمرو اقیانوس هند بریتانیا","","IO-X01~",49,[["bm@}cMHFU?ILHMT?IG"],["dl@wcMLIJ@YF"]]]],"r":[],"l":[],"t":[],"k":[]});

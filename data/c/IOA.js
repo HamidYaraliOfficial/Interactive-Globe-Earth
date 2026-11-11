@@ -1,0 +1,1 @@
+window.CD&&CD("IOA",{"p":[["Cocos","جزایر کوکوس","Province","-99-X15~",13,[["bkAw|Q@DEEB?"]]],["Christmas Island","جزیره کریسمس","","-99-X14~",99,[["d`AssSX@GD?NMACU"]]]],"r":[],"l":[],"t":[],"k":[["Murray Hill","تپه موری",356,105.617,-10.486]]});

@@ -1,0 +1,1 @@
+window.CD&&CD("HMD",{"p":[["Heard Island and McDonald Islands","جزایر مکدونالد و جزیره هرد","","HM-X01~",393,[["jjIwjMRq@LbA]TKVF_A"]]]],"r":[],"l":[],"t":[],"k":[["Big Ben","بیگ بن",2745,73.52,-53.1]]});

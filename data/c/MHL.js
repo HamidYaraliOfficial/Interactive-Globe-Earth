@@ -1,0 +1,1 @@
+window.CD&&CD("MHL",{"p":[["Ralik Chain","زنجیره رالیک","","MH-L",82,[["gc@cc`@[GMMh@T"],["wl@g}_@@]BFET"],["ydAcr_@DBCF?EAE"]]],["Ratak Chain","زنجیره راتاک","","MH-T",84,[["ik@iq`@GE@ADB?B"],["yd@er`@?LC@@C@K"],["qj@op`@G\\ABE@Nc@"],["mk@en`@F\\?FMZCBNe@E_@"]]]],"r":[],"l":[],"t":[["Majuro","ماجورو",25400,171.38,7.1,1,"Pacific/Majuro"]],"k":[]});

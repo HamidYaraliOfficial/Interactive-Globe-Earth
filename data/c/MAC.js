@@ -1,0 +1,1 @@
+window.CD&&CD("MAC",{"p":[["Macau","ماکائو","","MO-M",30,[["miCqdUDK@FGB"],["yiCodU@GDFG?"]]]],"r":[],"l":[],"t":[["Macau","ماکائو",568700,113.54,22.19,1,"America/Fortaleza"]],"k":[]});

@@ -1,0 +1,1 @@
+window.CD&&CD("MSR",{"p":[["Saint Peter","سنت پیتر","Parish","MS-P",32,[["ugB|cKME@ELBAF"]]],["Saint Anthony","سنت آنتونی","Parish","MS-A",51,[["ogBlcKFBIJC?DO"]]],["Saint George","سنت جورج، باربادوس","Parish","MS-G",17,[["{gBpcKFCB?CFGC"]]]],"r":[],"l":[],"t":[],"k":[["Soufrière Hills","آتشفشان تپه های سوفریر",914,-62.19,16.723]]});
