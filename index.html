@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="fa" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>کره زمین تعاملی | Interactive Globe</title><meta name="theme-color" content="#0b1422">
+<meta name="description" content="کره زمین سه‌بعدی؛ هر کشوری را انتخاب کنید و نقشهٔ ناهمواری، استان‌ها، رودها، شهرها و اطلاعات آن را ببینید | 3D globe: pick any country and explore its relief map, provinces, rivers, cities and facts">
+<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap"><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><h1><span data-fa="کره زمین تعاملی" data-en="Interactive Globe">کره زمین تعاملی</span><small data-fa="Interactive Globe" data-en="کره زمین تعاملی">Interactive Globe</small></h1>
+<div class="tools"><div class="sw"><input id="q" autocomplete="off"><ul id="sr" hidden></ul></div><datalist id="cl"></datalist>
+<button id="bk" hidden title="Globe">🌍</button><button id="ci" hidden title="Country info">ℹ️</button><button id="cmp" title="Compare countries">⚖️</button><button id="zi">+</button><button id="zo">−</button><button id="lb" title="Language / زبان">FA/EN</button></div></header>
+<main><div id="globe"></div><div id="cv" hidden><div id="stage"><canvas id="rc"></canvas><svg id="map" xmlns="http://www.w3.org/2000/svg"></svg></div><div id="ctitle"></div></div><div id="tip"></div>
+<p id="hint" data-fa="کره را بچرخانید و روی یک کشور کلیک کنید (یا جست‌وجو کنید)" data-en="Drag to rotate, click a country (or search)">کره را بچرخانید و روی یک کشور کلیک کنید</p></main>
+<footer>ساخته‌شده توسط <b>حمید یارعلی</b> · Created by <b>Hamid Yarali</b> · MIT · Data: <a href="https://www.naturalearthdata.com/">Natural Earth</a>, <a href="https://github.com/mledoze/countries">mledoze/countries</a></footer>
+<div id="modal" hidden><div class="card" role="dialog" aria-modal="true"><button id="x" aria-label="Close">×</button><div id="mb"></div></div></div>
+<script src="vendor/three.min.js"></script><script src="data/world.js"></script><script src="data/info.js"></script><script src="app.js"></script>
+</body></html>
