@@ -1,0 +1,1 @@
+window.CD&&CD("VGB",{"p":[["British Virgin Islands","جزایر بریتیش ویرجین","","VG-X01~",145,[["grBfrKHd@KM@W"],["urB`qKHNBDMC?Q"],["{sBtpKETADAQHI"]]]],"r":[],"l":[],"t":[],"k":[["Mount Sage","کوه ساژه",521,-64.653,18.417]]});

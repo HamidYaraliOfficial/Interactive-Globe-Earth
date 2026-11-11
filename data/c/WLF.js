@@ -1,0 +1,1 @@
+window.CD&&CD("WLF",{"p":[["Sigave","سیگاوه","","WF-SG",34,[["lxAhxa@EHI?DIH?"]]],["Alo","الو","","WF-AL",60,[["bxAhxa@DCDKANI?"],["rxAjwa@FFCHEG@I"]]],["Uvea","یووآ","","WF-UV",76,[["pqA~ka@HEPDKFOG"]]]],"r":[],"l":[],"t":[],"k":[["Mont Singavi","کوه سینگاو",762,-178.155,-14.269]]});

@@ -1,0 +1,1 @@
+window.CD&&CD("NIU",{"p":[["Niue","نیوئه","","NU-X01~",221,[["puBpd`@RMJ\\W?GO"]]]],"r":[],"l":[],"t":[["Alofi","الوفی",581,-169.91,-19.07,0,"Pacific/Pago_Pago"]],"k":[]});

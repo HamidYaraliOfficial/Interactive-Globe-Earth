@@ -1,0 +1,1 @@
+window.CD&&CD("SPM",{"p":[["Saint Pierre and Miquelon","سن پیر و میکلن","Commune","PM-X01~",30,[["mcH|}IDBALGIBG"]]],["Miquelon-Langlade","میکوئلون-لانگلید","Commune","PM-X02~",212,[["udHd_J\\SHVIDMM[JQCHAFUJD?L"]]]],"r":[],"l":[],"t":[],"k":[["Morne de la Grande Montagne","کوه مورنه د لا گراند",240,-56.31,47.04]]});

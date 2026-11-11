@@ -1,0 +1,1 @@
+window.CD&&CD("SHN",{"p":[["Tristan da Cunha","تریستان","","SH-TA",153,[["zzFf}@PK@DMTEO"],["zfFblAGSDIJPIJ"]]],["Saint Helena","سینت هلینا","","SH-HL",125,[["lbBvb@AINADVSK"]]],["Ascension","اسنشن","","SH-AC",89,[["hp@|xAJSBVOC"]]]],"r":[],"l":[],"t":[],"k":[]});

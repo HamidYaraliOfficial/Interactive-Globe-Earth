@@ -1,0 +1,1 @@
+window.CD&&CD("TUV",{"p":[["Tuvalu","تووالو","","TV-X01~",23,[["ft@c_b@?BK?JC"]]]],"r":[],"l":[],"t":[["Funafuti","فونافوتی",4749,179.22,-8.52,1,"Pacific/Funafuti"]],"k":[]});

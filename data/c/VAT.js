@@ -1,0 +1,1 @@
+window.CD&&CD("VAT",{"p":[["Vatican City","واتیکان","","VA-X01~",0,[["{dGylA??????"]]]],"r":[],"l":[],"t":[["Vatican City","واتیکان",832,12.45,41.9,1,"Europe/Vatican"]],"k":[]});

@@ -1,0 +1,1 @@
+window.CD&&CD("SAH",{"p":[["Western Sahara","صحرای غرب","","EH-X01~",90696,[["ihDxy@KcCeBL?[jI@@xSxN?Z`AHt@p@nAf@XhHY?rWtAVXCQFoBQOaEJuEKk@q@[UByAqA}CWuBi@SWe@{AaB_AgAoBgFiAUcAiAi@_@a@UC[L[}BDi@X{@Ik@Ji@AQm@_A"]]]],"r":[],"l":[],"t":[["Bir Lehlou","بئر لحلو",500,-9.65,26.12,1,""]],"k":[]});

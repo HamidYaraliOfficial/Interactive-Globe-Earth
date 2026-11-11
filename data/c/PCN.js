@@ -1,0 +1,1 @@
+window.CD&&CD("PCN",{"p":[["Pitcairn Islands","جزایر پیتکرن","","PN-X01~",43,[["~vC`aXHGF@GFIA"]]]],"r":[],"l":[],"t":[],"k":[]});

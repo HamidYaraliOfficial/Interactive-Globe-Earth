@@ -1,0 +1,1 @@
+window.CD&&CD("VIR",{"p":[["Saint Croix","سنت کرویکس","","VI-X01~",214,[["}mBnrKDTFl@SCD_A"]]],["Saint John","پاریس سنت جان","","VI-X03~",60,[["sqBbsKFFERGIDQ"]]],["Saint Thomas","سنت توماس","","VI-X02~",82,[["oqBftKBFI^CUCBLU"]]]],"r":[],"l":[],"t":[["Christiansted","کریستیانستد",32543,-64.75,17.75,0,""]],"k":[["Crown Mountain","کوه کرون",473,-64.97,18.36]]});
