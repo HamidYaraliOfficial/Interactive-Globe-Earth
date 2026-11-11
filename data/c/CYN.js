@@ -1,0 +1,1 @@
+window.CD&&CD("CYN",{"p":[["Northern Cyprus","قبرس شمالی","","-99-X04~",3319,[["czEqsEARIDH@FR?JG?DXEFLJg@LFPE^T|@SZ?c@k@ELeBEm@aAyDHBj@tARN@T\\HRU"]]]],"r":[],"l":[],"t":[["Famagusta","فاماگوستا",42526,33.95,35.13,0,"Asia/Nicosia"],["Kyrenia","کایرنیا",26701,33.33,35.33,0,"Asia/Nicosia"]],"k":[["Kyparissovouno","کوه سلولی",1023,33.17,35.32]]});

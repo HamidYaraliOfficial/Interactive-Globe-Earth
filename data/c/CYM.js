@@ -1,0 +1,1 @@
+window.CD&&CD("CYM",{"p":[["Cayman Islands","جزایر کایمن","","KY-X01~",310,[["axB`{NJg@Hz@UDCGPEEOGB"],["czBjsN?SF\\GI"],["_zBhrNO[BCJ^"]]]],"r":[],"l":[],"t":[["George Town","جرجتاون",4268,-81.37,19.29,1,"Australia/Hobart"]],"k":[]});

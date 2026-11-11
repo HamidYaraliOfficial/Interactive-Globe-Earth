@@ -1,0 +1,1 @@
+window.CD&&CD("ATC",{"p":[["Ashmore and Cartier Islands","جزایر آشمور و کارتیر","","AU-X04~",3,[["tlAkcW@C?BA?"]]]],"r":[],"l":[],"t":[],"k":[]});

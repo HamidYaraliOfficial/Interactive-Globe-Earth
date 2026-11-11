@@ -1,0 +1,1 @@
+window.CD&&CD("CUW",{"p":[["Curaçao","کوراسائو","","CW-X01~",465,[["akAfmLVS@LO`@a@b@S@HSVMH_@"]]]],"r":[],"l":[],"t":[["Willemstad","ویلمستاد",146813,-68.87,12.11,1,"America/Curacao"]],"k":[]});

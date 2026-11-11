@@ -1,0 +1,1 @@
+window.CD&&CD("ABW",{"p":[["Aruba","آروبا","","AW-X01~",170,[["}mAztLT[REW`@Q?"]]]],"r":[],"l":[],"t":[["Oranjestad","اورنجستاد",68775,-70.03,12.52,1,"America/Curacao"]],"k":[["Mount Jamanota","جامانوتا",188,-69.94,12.49]]});

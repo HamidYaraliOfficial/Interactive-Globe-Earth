@@ -1,0 +1,1 @@
+window.CD&&CD("COM",{"p":[["Mohéli","موهلی","","KM-M",200,[["nkAwoGXk@Cd@UD"]]],["Anjouan","آنژوان","","KM-A",450,[["lkAiuG\\BYVQb@B_@WS`@K"]]],["Andjazîdja","آندجازیدجا","","KM-G",1029,[["pgAcnGt@WHJc@j@iAKCOFEh@@"]]]],"r":[],"l":[],"t":[["Moroni","مورونی",128698,43.24,-11.7,1,"Indian/Comoro"]],"k":[["Kartala","کاراتالا",2361,43.37,-11.75]]});

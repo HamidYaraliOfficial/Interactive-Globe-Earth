@@ -1,0 +1,1 @@
+window.CD&&CD("BLM",{"p":[["Saint Barthélemy","سنت بارثلمی","","BL-X00~",25,[["ynBpgKGJ@ODB"]]]],"r":[],"l":[],"t":[],"k":[["Morne du Vitet","مورنه دو ویلت",281,-62.83,17.907]]});
